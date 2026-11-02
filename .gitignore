@@ -14,3 +14,8 @@ node_modules/
 # 运行时产物
 *.log
 .env
+
+# 凭据（切勿提交真实密钥）
+*_credential.json
+credentials*.json
+.secrets/
